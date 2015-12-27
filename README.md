@@ -1,4 +1,5 @@
 Step by step description of the purpose and the output for each step of the run_analysis.R source code
+
 1. Set the URL"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 2. The file name is file
 3. Download file using the URL above with the name file
